@@ -152,6 +152,10 @@ header {
     color: #22c55e;
 }
 
+.failed {
+    color: #FF0000 ;
+}
+
 footer {
     text-align: center;
     margin-top: 60px;
